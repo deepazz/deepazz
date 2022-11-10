@@ -33,13 +33,11 @@
 ---
 
 ### 👨🏼‍💻 Sobre mí :
-- 🌐 : Mi Linkedin es: https://www.linkedin.com/in/jorge-de-paz-serrano-a35850216/
+- 🌐 : Mi Linkedin es: https://www.linkedin.com/in/jorge-de-paz-serrano-a35850216/ <a href="https://www.linkedin.com/in/jorge-de-paz-serrano-a35850216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-de-paz-serrano-a35850216/" height="20" width="30" /></a>
 
 - 🌐 : Mi portafolio personal es: https://lnkd.in/dmeJWA7i
 
 - 📨 : Si me quieres contactar, mi correo es jorgedepazserrano@gmail.com
-
-- 📨 : También me podéis contactar por Linkedin <a href="https://github.com/deepazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/deepazz" height="20" width="30" /></a>
 
 
 <div align="left">
