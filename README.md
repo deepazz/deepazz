@@ -39,6 +39,8 @@
 
 - 📨 : Si me quieres contactar, mi correo es jorgedepazserrano@gmail.com
 
+- 📨 : También me podéis contactar por Linkedin <a href="https://github.com/deepazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/deepazz" height="20" width="30" /></a>
+
 
 <div align="left">
     <h3>🔨 Lenguajes y Herramientas:</h3>
@@ -53,7 +55,3 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" **alt="Java" width="40" height="40"/>
       </div>
 </div>
-
----
-
-
